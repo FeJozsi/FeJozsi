@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeJozsi
 - 👀 I’m interested in gaining experience
-- 🌱 I’m currently excercising Python
+- 🌱 I’m currently practicing Python
 - 📫 How to reach me: jfeher@fjm.hu
 
 
